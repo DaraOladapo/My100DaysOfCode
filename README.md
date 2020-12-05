@@ -6,16 +6,16 @@ A video demo of me doing 100 days of code
 
 I am learning the Hello World.
 
-More Info [here](Day1/Day1.md)
+More Info [here](Day1/README.md)
 
 ## Day 2
 
 I am learning about data types and variables
 
-More Info [here](Day2/Day2.md)
+More Info [here](Day2/README.md)
 
 ## Day 3
 
 I am learning about console.
 
-More Info [here](Day3/Day3.md)
+More Info [here](Day3/README.md)
